@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ci"]
+	path = ci
+	url = https://github.com/gegznav/ci
 [submodule "spAddins"]
 	path = spAddins
 	url = https://github.com/gegznav/spaddins
