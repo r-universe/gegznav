@@ -5,6 +5,9 @@
 [submodule "ci"]
 	path = ci
 	url = https://github.com/gegznav/ci
+[submodule "cld"]
+	path = cld
+	url = https://github.com/gegznav/cld
 [submodule "spAddins"]
 	path = spAddins
 	url = https://github.com/gegznav/spaddins
